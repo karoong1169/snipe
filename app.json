@@ -1,0 +1,13 @@
+{
+    "name": "snipe bot",
+    "description": "snipe bot",
+    "repository": "https://github.com/karoong1169/snipe",
+    "logo": "https://cdn.becoditive.xyz/logos/becoditive-api.png",
+    "keywords": ["becoditive", "discord", "embed-builder"],
+    "env": {
+        "TOKEN": {
+          "description": "Bot Token Of Your Discord Bot.",
+          "value": ""
+        }
+      }
+}
