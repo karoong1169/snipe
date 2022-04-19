@@ -1,0 +1,8 @@
+{
+    "token": "xyz",
+    "extensions": ["commands.editsnipe", "commands.py", "commands.reactionsnipe", "commands.snipe", "utils.errorhandler"],
+    "prefix": ".",
+    "mentionprefix": true,
+    "ignorecase": true,
+    "status": "Miyuki"
+}
